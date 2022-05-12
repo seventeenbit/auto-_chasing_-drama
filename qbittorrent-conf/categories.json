@@ -1,0 +1,11 @@
+{
+    "动漫": {
+        "save_path": "/downloads/动漫"
+    },
+    "电影": {
+        "save_path": "/downloads/电影"
+    },
+    "电视剧": {
+        "save_path": "/downloads/电视剧"
+    }
+}
